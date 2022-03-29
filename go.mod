@@ -1,5 +1,3 @@
-module github.com/jdya/news-demo-starter-files
+module news-demo-starter-files
 
-go 1.15
-
-require github.com/joho/godotenv v1.4.0 // indirect
+go 1.17
