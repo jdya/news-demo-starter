@@ -1,2 +1,2 @@
-web:bin/news-demo-starter-files
+web: bin/news-demo-starter-files
 
